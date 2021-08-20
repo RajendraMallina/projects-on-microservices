@@ -1,4 +1,6 @@
-package io.javabrains.moviecatalogservice;
+package io.javabrains.moviecatalogservice.model;
+
+import io.javabrains.moviecatalogservice.model.Rating;
 
 import java.util.List;
 

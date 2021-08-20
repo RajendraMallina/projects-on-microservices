@@ -1,4 +1,4 @@
-package io.javabrains.moviecatalogservice;
+package io.javabrains.moviecatalogservice.model;
 
 public class Movie {
 
